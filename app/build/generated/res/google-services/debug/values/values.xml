@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">893666137375-93jc3d1bf2t3j8hmmqbovh91mdetee7a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projeadi-463b5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">893666137375</string>
+    <string name="google_api_key" translatable="false">AIzaSyAoS-DR21Y7Kk6H9MFUnpjZdG-C98nEwLI</string>
+    <string name="google_app_id" translatable="false">1:893666137375:android:9ce5215fccc3efb0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoS-DR21Y7Kk6H9MFUnpjZdG-C98nEwLI</string>
+    <string name="google_storage_bucket" translatable="false">projeadi-463b5.appspot.com</string>
+    <string name="project_id" translatable="false">projeadi-463b5</string>
+</resources>
